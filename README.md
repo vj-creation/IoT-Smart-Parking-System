@@ -11,5 +11,5 @@ Equipments Required:
 4.	NodeMCU- ESP8266 Development Board
 5.	Jumper Wires
 
-![BASIC SETUP](/image.png)
+![BASIC SETUP](IoT-Based-Smart-Parking-System-Circuit-Diagram.png)
 Format: ![Alt Text](url)
