@@ -12,4 +12,4 @@ Equipments Required:
 5.	Jumper Wires
 
 ![BASIC SETUP](IoT-Based-Smart-Parking-System-Circuit-Diagram.png)
-Format: ![IOT SMART PARKING](url)
+
